@@ -27,6 +27,6 @@ php artisan migrate --seed
 ```sh
 php artisan serve
 ```
-#### [Buy me a Coffee ☕](hthttps://www.buymeacoffee.com/areyes1986)
+#### [Buy me a Coffee ☕](https://www.buymeacoffee.com/areyes1986)
 
 
